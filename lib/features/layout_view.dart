@@ -21,7 +21,7 @@ class LayoutView extends StatelessWidget {
 
       ),
       floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
-      body: vm.Screens[vm.current_index],
+      body: vm.screens[vm.current_index],
       bottomNavigationBar: BottomAppBar(
         shape:const CircularNotchedRectangle(),
         notchMargin:10 ,

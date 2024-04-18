@@ -1,0 +1,23 @@
+{
+  "login": "تسجيل الدخول",
+  "welcomeBack": "مرحبًا بعودتك",
+  "email": "بريد إلكتروني",
+  "EnterYourEmailAddress": "أدخل عنوان بريدك الالكتروني",
+  "password": "كلمة المرور",
+  "EnterYourPassword": "ادخل كلمة المرور",
+  "OR": "أو",
+  "createNewAccount":"انشاء حساب جديد !..",
+  "CreateAccount": "إنشاء حساب",
+  "FullName": "الاسم الكامل",
+  "EnterYourFullName": "ادخل اسمك كامل",
+  "ConfirmPassword": "تأكيد كلمة المرور",
+  "EnterYouConfirmPassword": "اعد ادخال كلمة السر",
+  "invalidEmail": "عنوان البريد الإلكتروني غير صالح",
+  "invalidPassword": "يجب عليك إدخال كلمة المرور الخاصة بك!",
+  "passwordNotMatched": "كلمة المرور غير متطابقة",
+  "invalidName": "يجب عليك إدخال اسمك",
+  "ToDoList": "عمل قائمة",
+  "Settings": "إعدادات",
+  "Language":"لغة",
+  "Theme": "النمط"
+}

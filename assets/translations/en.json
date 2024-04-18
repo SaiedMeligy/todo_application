@@ -1,0 +1,23 @@
+{
+  "login" : "login",
+   "welcomeBack" :"welcome back",
+   "email": "E-mail",
+   "EnterYourEmailAddress" : "Enter your e-mail address",
+   "password": "password",
+  "EnterYourPassword" : "Enter Your Password",
+  "OR" : "OR",
+  "createNewAccount" : "create new account !..",
+  "CreateAccount" : "Create Account",
+  "FullName": "Full Name",
+  "EnterYourFullName": "Enter Your Full Name",
+  "ConfirmPassword": "Confirm Password",
+  "EnterYouConfirmPassword": "Enter you confirm password",
+  "invalidEmail": "Invalid e-mail address",
+  "invalidPassword": "You must enter your password !",
+  "invalidName": "You must enter your name",
+  "passwordNotMatched": "Password not matched",
+  "ToDoList": "To Do List",
+  "Settings": "Settings",
+  "Language" :"Language",
+  "Theme": "Theme"
+}
